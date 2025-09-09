@@ -1,2 +1,2 @@
 # Meet-Bhuva
-this is my repository
+name meet bhuva
